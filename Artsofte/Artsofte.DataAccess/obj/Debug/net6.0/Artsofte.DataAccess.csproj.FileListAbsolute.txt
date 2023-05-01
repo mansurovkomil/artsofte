@@ -1,0 +1,17 @@
+C:\Users\kamil\source\repos\Artsofte\Artsofte.DataAccess\bin\Debug\net6.0\Artsofte.DataAccess.deps.json
+C:\Users\kamil\source\repos\Artsofte\Artsofte.DataAccess\bin\Debug\net6.0\Artsofte.DataAccess.runtimeconfig.json
+C:\Users\kamil\source\repos\Artsofte\Artsofte.DataAccess\bin\Debug\net6.0\Artsofte.DataAccess.dll
+C:\Users\kamil\source\repos\Artsofte\Artsofte.DataAccess\bin\Debug\net6.0\Artsofte.DataAccess.pdb
+C:\Users\kamil\source\repos\Artsofte\Artsofte.DataAccess\bin\Debug\net6.0\Artsofte.Domain.dll
+C:\Users\kamil\source\repos\Artsofte\Artsofte.DataAccess\bin\Debug\net6.0\Artsofte.Domain.pdb
+C:\Users\kamil\source\repos\Artsofte\Artsofte.DataAccess\obj\Debug\net6.0\Artsofte.DataAccess.csproj.AssemblyReference.cache
+C:\Users\kamil\source\repos\Artsofte\Artsofte.DataAccess\obj\Debug\net6.0\Artsofte.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\source\repos\Artsofte\Artsofte.DataAccess\obj\Debug\net6.0\Artsofte.DataAccess.AssemblyInfoInputs.cache
+C:\Users\kamil\source\repos\Artsofte\Artsofte.DataAccess\obj\Debug\net6.0\Artsofte.DataAccess.AssemblyInfo.cs
+C:\Users\kamil\source\repos\Artsofte\Artsofte.DataAccess\obj\Debug\net6.0\Artsofte.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\kamil\source\repos\Artsofte\Artsofte.DataAccess\obj\Debug\net6.0\Artsofte.DataAccess.csproj.CopyComplete
+C:\Users\kamil\source\repos\Artsofte\Artsofte.DataAccess\obj\Debug\net6.0\Artsofte.DataAccess.dll
+C:\Users\kamil\source\repos\Artsofte\Artsofte.DataAccess\obj\Debug\net6.0\refint\Artsofte.DataAccess.dll
+C:\Users\kamil\source\repos\Artsofte\Artsofte.DataAccess\obj\Debug\net6.0\Artsofte.DataAccess.pdb
+C:\Users\kamil\source\repos\Artsofte\Artsofte.DataAccess\obj\Debug\net6.0\Artsofte.DataAccess.genruntimeconfig.cache
+C:\Users\kamil\source\repos\Artsofte\Artsofte.DataAccess\obj\Debug\net6.0\ref\Artsofte.DataAccess.dll

@@ -1,0 +1,17 @@
+C:\Users\kamil\source\repos\Artsofte\Artsofte.Service\bin\Debug\net6.0\Artsofte.Service.deps.json
+C:\Users\kamil\source\repos\Artsofte\Artsofte.Service\bin\Debug\net6.0\Artsofte.Service.dll
+C:\Users\kamil\source\repos\Artsofte\Artsofte.Service\bin\Debug\net6.0\Artsofte.Service.pdb
+C:\Users\kamil\source\repos\Artsofte\Artsofte.Service\bin\Debug\net6.0\Artsofte.DataAccess.dll
+C:\Users\kamil\source\repos\Artsofte\Artsofte.Service\bin\Debug\net6.0\Artsofte.Domain.dll
+C:\Users\kamil\source\repos\Artsofte\Artsofte.Service\bin\Debug\net6.0\Artsofte.DataAccess.pdb
+C:\Users\kamil\source\repos\Artsofte\Artsofte.Service\bin\Debug\net6.0\Artsofte.Domain.pdb
+C:\Users\kamil\source\repos\Artsofte\Artsofte.Service\obj\Debug\net6.0\Artsofte.Service.csproj.AssemblyReference.cache
+C:\Users\kamil\source\repos\Artsofte\Artsofte.Service\obj\Debug\net6.0\Artsofte.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\source\repos\Artsofte\Artsofte.Service\obj\Debug\net6.0\Artsofte.Service.AssemblyInfoInputs.cache
+C:\Users\kamil\source\repos\Artsofte\Artsofte.Service\obj\Debug\net6.0\Artsofte.Service.AssemblyInfo.cs
+C:\Users\kamil\source\repos\Artsofte\Artsofte.Service\obj\Debug\net6.0\Artsofte.Service.csproj.CoreCompileInputs.cache
+C:\Users\kamil\source\repos\Artsofte\Artsofte.Service\obj\Debug\net6.0\Artsofte.Service.csproj.CopyComplete
+C:\Users\kamil\source\repos\Artsofte\Artsofte.Service\obj\Debug\net6.0\Artsofte.Service.dll
+C:\Users\kamil\source\repos\Artsofte\Artsofte.Service\obj\Debug\net6.0\refint\Artsofte.Service.dll
+C:\Users\kamil\source\repos\Artsofte\Artsofte.Service\obj\Debug\net6.0\Artsofte.Service.pdb
+C:\Users\kamil\source\repos\Artsofte\Artsofte.Service\obj\Debug\net6.0\ref\Artsofte.Service.dll

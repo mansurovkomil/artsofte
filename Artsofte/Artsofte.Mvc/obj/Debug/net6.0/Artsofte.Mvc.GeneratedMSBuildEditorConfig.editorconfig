@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Artsofte.Mvc
+build_property.RootNamespace = Artsofte.Mvc
+build_property.ProjectDir = C:\Users\kamil\source\repos\Artsofte\Artsofte.Mvc\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\kamil\source\repos\Artsofte\Artsofte.Mvc
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/kamil/source/repos/Artsofte/Artsofte.Mvc/Views/Account/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Artsofte/Artsofte.Mvc/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Artsofte/Artsofte.Mvc/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Artsofte/Artsofte.Mvc/Views/Account/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Artsofte/Artsofte.Mvc/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Artsofte/Artsofte.Mvc/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Artsofte/Artsofte.Mvc/Views/Language/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZ3VhZ2VcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Artsofte/Artsofte.Mvc/Views/Language/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZ3VhZ2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Artsofte/Artsofte.Mvc/Views/Language/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZ3VhZ2VcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Artsofte/Artsofte.Mvc/Views/Language/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuZ3VhZ2VcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Artsofte/Artsofte.Mvc/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Artsofte/Artsofte.Mvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Artsofte/Artsofte.Mvc/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Artsofte/Artsofte.Mvc/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kamil/source/repos/Artsofte/Artsofte.Mvc/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-d6m1qhjue1

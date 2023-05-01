@@ -1,0 +1,12 @@
+C:\Users\kamil\source\repos\Artsofte\Artsofte.Domain\bin\Debug\net6.0\Artsofte.Domain.deps.json
+C:\Users\kamil\source\repos\Artsofte\Artsofte.Domain\bin\Debug\net6.0\Artsofte.Domain.dll
+C:\Users\kamil\source\repos\Artsofte\Artsofte.Domain\bin\Debug\net6.0\Artsofte.Domain.pdb
+C:\Users\kamil\source\repos\Artsofte\Artsofte.Domain\obj\Debug\net6.0\Artsofte.Domain.csproj.AssemblyReference.cache
+C:\Users\kamil\source\repos\Artsofte\Artsofte.Domain\obj\Debug\net6.0\Artsofte.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\source\repos\Artsofte\Artsofte.Domain\obj\Debug\net6.0\Artsofte.Domain.AssemblyInfoInputs.cache
+C:\Users\kamil\source\repos\Artsofte\Artsofte.Domain\obj\Debug\net6.0\Artsofte.Domain.AssemblyInfo.cs
+C:\Users\kamil\source\repos\Artsofte\Artsofte.Domain\obj\Debug\net6.0\Artsofte.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kamil\source\repos\Artsofte\Artsofte.Domain\obj\Debug\net6.0\Artsofte.Domain.dll
+C:\Users\kamil\source\repos\Artsofte\Artsofte.Domain\obj\Debug\net6.0\refint\Artsofte.Domain.dll
+C:\Users\kamil\source\repos\Artsofte\Artsofte.Domain\obj\Debug\net6.0\Artsofte.Domain.pdb
+C:\Users\kamil\source\repos\Artsofte\Artsofte.Domain\obj\Debug\net6.0\ref\Artsofte.Domain.dll
